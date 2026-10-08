@@ -66,7 +66,6 @@ http://localhost:3000
 4. Change quantities.
 5. Place an order.
 6. Refresh the page.
-7. Login again and verify the order history.
 
 ## GitHub repository name
 
